@@ -1,6 +1,6 @@
 # EX-NO-5-IMPLEMENTATION-OF-RAIL-FENCE
-## NAME: KANISHKA P
-## REG NO: 2305001011
+## NAME: NITHYA T
+## REG NO: 2305001023
 ## AIM:
 To write a C program to implement the rail fence transposition technique.
 
